@@ -3,7 +3,7 @@
  { Autor: @GabriM97 <br/>
  { Telegram: @GabriM97 <br/>
  { Email: marino.gabri97@gmail.com <br/>
- { Official repo: https://github.com/GabriM97/NeuralNetworkBuilder <br/>
+ { Official repo: https://github.com/GabriM97/NeuralNetworkBuilder
  { ********************* <br/>
  <br/>
  **Neural Network Builder** is a website built using **Laravel** (_PHP Framework_) and **Keras** (_ML Python Library_), that allows you to easily build your *Neural Network Models* and train it on your personal dataset.<br/>
@@ -20,7 +20,7 @@ I promise you will not write a single line of code, just Import a Dataset -> Bui
 <br/>
 
 ### Dependences:
-**pip3 install**:
+**pip3 install** _(install them globally: `sudo -H pip3 intall <package-name>)_:
 * _tensorflow_
 * _keras_
 * _pandas_
